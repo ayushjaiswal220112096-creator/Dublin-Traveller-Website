@@ -1,0 +1,29 @@
+*{
+    margin: 20px;
+}
+.heading {
+    background-color: antiquewhite;
+    color: black;
+}
+.description {
+    background-color: aliceblue;
+}
+.images {
+    
+    object-fit: cover;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+.images img {
+    border: 1px solid black;
+    padding: 10px;
+}
+#homeButton {
+    background-color: wheat;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+
+
+}
